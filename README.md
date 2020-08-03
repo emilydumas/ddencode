@@ -21,7 +21,7 @@ Example
 Read a list of filenames from `framelist.txt` and use 2-pass encoding
 to make 8000kbit/s 30fps h.264 video file `video.mp4`.
 
-Comments, quesitons, bug reports
+Comments, questions, bug reports
 --------------------------------
 
 Send to: david@dumas.io
